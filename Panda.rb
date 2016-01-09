@@ -66,3 +66,10 @@ class SocialNetwork
     end
   end
 end
+
+class PandaAlreadyThere < StandardError
+end
+
+class PandasAlreadyFriends < StandardError
+end
+
