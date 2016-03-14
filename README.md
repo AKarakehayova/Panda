@@ -1,2 +1,1 @@
-# Panda
-New social network
+Task at HackBulgaria`s Ruby Course
